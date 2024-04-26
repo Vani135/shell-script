@@ -1,8 +1,8 @@
 #! /bib/bash
 
 #declaring of variable
-PERSON1=Mimi #no space between = and value
-PERSON2=Simi
+PERSON1=$1
+PERSON2=$2
 
 #referring variable
 echo "$PERSON1:: Hello $PERSON2, how is going on?"
