@@ -1,1 +1,3 @@
-This is the sample script
+#! /bin/bash
+
+echo "Hello, I am intrested to learn Devops"
